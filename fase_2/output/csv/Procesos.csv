@@ -1,0 +1,43 @@
+turno,delito,total
+1,Homicidios,191.0
+2,Por arma de fuego,146.0
+2,Por arma blanca,34.0
+2,Por arma contundente,8.0
+2,Por estrangulamiento,2.0
+2,Por linchamiento,1.0
+1,Lesiones,280.0
+2,Arma blanca,142.0
+2,Arma de fuego,112.0
+2,Arma contundente,26.0
+1,Contra el patrimonio,1854.0
+1,Robo,1643.0
+2,A peatones,450.0
+2,De motocicletas,293.0
+2,A comercios,438.0
+2,De vehículos,139.0
+2,A residencias,245.0
+2,A buses urbanos,7.0
+2,A buses extraurbanos,24.0
+2,De camiones/tráiler con mercadería,39.0
+2,En iglesias,7.0
+2,A turistas,1.0
+1,Hurto,1.0
+2,Hurto a comercios,1.0
+1,Otros robos y hurtos,210.0
+2,Otros robos y hurtos,210.0
+1,Contra la libertad,8.0
+1,Secuestro,8.0
+1,Extorsión,178.0
+2,Extorsión,178.0
+1,Otras causas,40757.0
+1,Hombres,39260.0
+1,Homicidios,181.0
+2,Por arma de fuego,139.0
+2,Por arma blanca,31.0
+2,Por arma contundente,8.0
+2,Por estrangulamiento,2.0
+2,Por linchamiento,1.0
+1,Lesiones,271.0
+2,Arma blanca,137.0
+2,Arma de fuego,109.0
+2,Arma contundente,25.0
